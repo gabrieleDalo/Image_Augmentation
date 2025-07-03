@@ -1,9 +1,0 @@
-
-ALTRO:
-
-- Per attivare l'ambiente conda, specifico per il progetto (con tutte le dipendenze necessarie), da terminale: conda activate Lab_Parallel_Computing (è possibile impostarlo su PyCharm)
-Una volta attivato, si possono installare li dentro i package che vogliamo usare solo li.
-
-- Per uscire dall'ambiente conda basta digitare: exit
-
--  
